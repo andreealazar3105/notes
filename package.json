@@ -1,0 +1,27 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreealazar3105/notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreealazar3105/notes/issues"
+  },
+  "homepage": "https://github.com/andreealazar3105/notes#readme",
+  "dependencies": {
+    "lit-element": "^2.1.0",
+    "webpack": "^4.32.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.2"
+  }
+}
